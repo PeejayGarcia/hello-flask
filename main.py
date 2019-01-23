@@ -15,7 +15,7 @@ form = """
 <html>
     <body>
         <form action="/hello" method="post">
-            <label for="first-name">First Name:</label>
+            <label for="first-name">first name:</label>
             <input id="first-name" type="text" name="first_name" />
             <input type="submit" />
         <form>
